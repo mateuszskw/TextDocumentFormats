@@ -1,0 +1,10 @@
+{
+  "ticketNumber": "04287901",
+  "passengerName": "Leonardo Dicaprio",
+  "departureStation": "Kraków Główny",
+  "arrivalStation": "Gdańsk Główny",
+  "departureTime": "21:12",
+  "arrivalTime": "05:38",
+  "trainClass": "First Class",
+  "price": "89.00"
+}

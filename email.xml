@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <from>Skwaramateusz123@gmail.com</from>
+    <to>skwara-mateusz@wp.pl</to>
+    <subject>Cześć</subject>
+    <body>
+        <greeting>Hi Mateusz,</greeting>
+        <message>Hej jak ci idzie na studiach?</message>
+        <closing>Pozdrowiam!</closing>
+        <signature>Mateusz Skwara</signature>
+    </body>
+    <date>2024-30-11</date>
+</email>

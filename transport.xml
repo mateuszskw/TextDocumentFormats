@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+  <transport type="land" mode="car">
+    <brand>Mercedes</brand>
+    <model>s-class</model>
+    <year>2024</year>
+    <color>white</color>
+  </transport>
+  <transport type="land" mode="bicycle">
+    <brand>Orbea</brand>
+    <model> OiZ M30</model>
+    <year>2024</year>
+    <color>Blue</color>
+  </transport>
+  <transport type="water" mode="boat">
+    <name>ARCA 650</name>
+    <length>6,5 meters</length>
+    <capacity>no information</capacity>
+    <purpose>Recreational</purpose>
+  </transport>
+</transports>
