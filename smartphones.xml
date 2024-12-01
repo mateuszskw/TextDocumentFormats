@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smartphones>
+    <smartphone brand="Iphone" model="15" releaseYear="2023">
+        <specs>
+            <screenSize unit="inch">6.1</screenSize>
+            <batteryCapacity unit="mAh">3349</batteryCapacity>
+            <storage unit="GB">128</storage>
+            <camera unit="MP">48</camera>
+        </specs>
+        <price currency="USD">600</price>
+    </smartphone>
+</smartphones>
